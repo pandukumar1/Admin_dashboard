@@ -40,7 +40,7 @@ export default function Header() {
 
             <div className="d-flex align-items-center gap-4">
 
-                {/* <div
+                <div
                     className="d-flex align-items-center justify-content-center border border-2 border-black rounded-circle"
                     style={{ width: "35px", height: "35px" }}
                 >
@@ -53,7 +53,7 @@ export default function Header() {
                     style={{ width: "35px", height: "35px" }}
                 >
                     <i className="bi bi-bell text-white fs-6"></i>
-                </div> */}
+                </div>
 
 
                 <div
