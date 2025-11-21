@@ -19,14 +19,14 @@ export default function Header() {
 
 
             <div className="d-flex align-items-center gap-4">
-                {/* <div className="text-center">
+                <div className="text-center">
                     <i className="bi bi-inbox fs-5 d-block"></i>
                     <small>Inbox</small>
                 </div>
                 <div className="text-center">
                     <i className="bi bi-pencil-square fs-5 d-block"></i>
                     <small>Compose</small>
-                </div> */}
+                </div>
                 <div className="text-center">
                     <i className="bi bi-geo-alt fs-5 d-block"></i>
                     <small>Maps</small>
