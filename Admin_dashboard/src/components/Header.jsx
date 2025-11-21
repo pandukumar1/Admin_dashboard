@@ -62,6 +62,7 @@ export default function Header() {
                 >
                     <i className="bi bi-gear text-white fs-6"></i>
                 </div> */}
+                <h5>nething</h5>
 
 
                 <div className="d-flex align-items-center gap-2">
