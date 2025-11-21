@@ -18,10 +18,10 @@ export default function Header() {
             </div>
 
 
-            <div className="d-flex align-items-center gap-4">
+            {/* <div className="d-flex align-items-center gap-4">
                 <div className="text-center">
                     <i className="bi bi-inbox fs-5 d-block"></i>
-                    {/* <small>Inbox</small> */}
+                    <small>Inbox</small>
                 </div>
                 <div className="text-center">
                     <i className="bi bi-pencil-square fs-5 d-block"></i>
@@ -35,7 +35,7 @@ export default function Header() {
                     <i className="bi bi-images fs-5 d-block"></i>
                     <small>Gallery</small>
                 </div>
-            </div>
+            </div> */}
 
 
             <div className="d-flex align-items-center gap-4">
