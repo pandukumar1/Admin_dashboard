@@ -27,20 +27,20 @@ export default function Header() {
                     <i className="bi bi-pencil-square fs-5 d-block"></i>
                     <small>Compose</small>
                 </div>
-                {/* <div className="text-center">
+                <div className="text-center">
                     <i className="bi bi-geo-alt fs-5 d-block"></i>
                     <small>Maps</small>
                 </div>
                 <div className="text-center">
                     <i className="bi bi-images fs-5 d-block"></i>
                     <small>Gallery</small>
-                </div> */}
+                </div>
             </div>
 
 
             <div className="d-flex align-items-center gap-4">
 
-                <div
+                {/* <div
                     className="d-flex align-items-center justify-content-center border border-2 border-black rounded-circle"
                     style={{ width: "35px", height: "35px" }}
                 >
@@ -53,7 +53,7 @@ export default function Header() {
                     style={{ width: "35px", height: "35px" }}
                 >
                     <i className="bi bi-bell text-white fs-6"></i>
-                </div>
+                </div> */}
 
 
                 <div
