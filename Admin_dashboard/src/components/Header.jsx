@@ -18,7 +18,7 @@ export default function Header() {
             </div>
 
 
-            {/* <div className="d-flex align-items-center gap-4">
+            <div className="d-flex align-items-center gap-4">
                 <div className="text-center">
                     <i className="bi bi-inbox fs-5 d-block"></i>
                     <small>Inbox</small>
@@ -35,11 +35,11 @@ export default function Header() {
                     <i className="bi bi-images fs-5 d-block"></i>
                     <small>Gallery</small>
                 </div>
-            </div> */}
+            </div>
 
 
             <div className="d-flex align-items-center gap-4">
-
+                {/* 
                 <div
                     className="d-flex align-items-center justify-content-center border border-2 border-black rounded-circle"
                     style={{ width: "35px", height: "35px" }}
@@ -61,7 +61,7 @@ export default function Header() {
                     style={{ width: "35px", height: "35px" }}
                 >
                     <i className="bi bi-gear text-white fs-6"></i>
-                </div>
+                </div> */}
 
 
                 <div className="d-flex align-items-center gap-2">
